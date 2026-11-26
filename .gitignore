@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+HandControl.spec
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+Thumbs.db
+Desktop.ini
